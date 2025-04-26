@@ -19,11 +19,8 @@
       "config": {
 
 "googleMaps": {
-
 "apiKey": My Project 38339
-
 }
-
 }
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
